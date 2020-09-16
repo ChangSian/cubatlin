@@ -22,11 +22,10 @@
   * 67th, score 0.81 accuracy in Product Detection(Computer Vision task).
 
 ### 📫 How to reach me 💬 
-* Email: ethan1126.ilink@gmail.com
-* LinkedIn: www.linkedin.com/in/ethan-wu-MBA
-* Medium: https://medium.com/@ethan1126.ilink
-
+<p >
+<a href="https://linkedin.com/in/ethan-wu-mba" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ethan-wu-mba" height="30" width="30" /></a>
+<a href="https://medium.com/@ethan1126.ilink" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ethan1126.ilink" height="30" width="30" /></a>
+<a href="https://www.leetcode.com/cubaba" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="cubaba" height="30" width="30" /></a>
+</p>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcubatlin&count_bg=%2395DFAF&title_bg=%239A9897&icon=python.svg&icon_color=%23FFBCF5&title=HITs%21&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
