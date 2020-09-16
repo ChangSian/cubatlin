@@ -1,4 +1,6 @@
-## 💡 Nĭ Hăo 👋 I'm Ethan dedicated to solving real world problems by  machine learning !
+## 💡 Nĭ Hăo 👋  my name is Ethan & I'm a Data Mining Analyst based in Taipei! 
+**I'm a data scientist dedicated to solving real world problems(Anomaly Detection\Image\NLP) by machine learning!**
+
 ![image](https://camo.githubusercontent.com/b478c4489e9dd03a7dd8ac06aa27d7ccf2e56c86/68747470733a2f2f692e67697068792e636f6d2f5254684e30684f5332474f344d2e676966)
 
 ###  🎙️ Activities 👯
