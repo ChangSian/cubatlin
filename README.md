@@ -1,4 +1,4 @@
-## 😈 Nĭ Hăo 👋
+## 💡 Nĭ Hăo 👋
 I'm a data scientist dedicated to solving business problems by using quantitative methods- implement strategic thought in statistics & machine learning algorithm.
 My experience includes building sentiments analysis model in Sina WeiBo (Beijing), and conduct insurance repurchase model & social network algorithm in insurance industry. And also I’m a night-time Kaggler, solving real world problems(Anomaly Detection\Image\NLP) by machine learning.
 
