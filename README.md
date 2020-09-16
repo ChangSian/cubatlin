@@ -1,9 +1,5 @@
 ## 💡 Nĭ Hăo 👋 I'm Ethan dedicated to solving real world problems by  machine learning !
-
-I'm a data scientist dedicated to solving business problems by using quantitative methods- implement strategic thought in statistics & machine learning algorithm.
-My experience includes building sentiments analysis model in Sina WeiBo (Beijing), and conduct insurance repurchase model & social network algorithm in insurance industry. And also I’m a night-time Kaggler, solving real world problems(Anomaly Detection\Image\NLP) by machine learning.
-
-   ![image](https://camo.githubusercontent.com/b478c4489e9dd03a7dd8ac06aa27d7ccf2e56c86/68747470733a2f2f692e67697068792e636f6d2f5254684e30684f5332474f344d2e676966)
+![image](https://camo.githubusercontent.com/b478c4489e9dd03a7dd8ac06aa27d7ccf2e56c86/68747470733a2f2f692e67697068792e636f6d2f5254684e30684f5332474f344d2e676966)
 
 ###  🎙️ Activities 👯
 * DS with 3+ years business solutions in financial industry around forecasting, optimization, & prediction.
