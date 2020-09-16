@@ -1,4 +1,4 @@
-## 💡 Nĭ Hăo 👋  my name is Ethan & I'm a Data Mining Analyst based in Taipei! 
+## 💡 Nĭ Hăo 👋  my name is Ethan & I'm a Data Scientist based in Taipei! 
 
 **I'm a data scientist dedicated to solving real world problems(Anomaly Detection\Image\NLP) by machine learning!** [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcubatlin&count_bg=%2395DFAF&title_bg=%239A9897&icon=python.svg&icon_color=%23FFBCF5&title=HITs%21&edge_flat=false)](https://hits.seeyoufarm.com)
 
