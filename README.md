@@ -2,6 +2,8 @@
 I'm a data scientist dedicated to solving business problems by using quantitative methods- implement strategic thought in statistics & machine learning algorithm.
 My experience includes building sentiments analysis model in Sina WeiBo (Beijing), and conduct insurance repurchase model & social network algorithm in insurance industry. And also I’m a night-time Kaggler, solving real world problems(Anomaly Detection\Image\NLP) by machine learning.
 
+   ![image](https://camo.githubusercontent.com/b478c4489e9dd03a7dd8ac06aa27d7ccf2e56c86/68747470733a2f2f692e67697068792e636f6d2f5254684e30684f5332474f344d2e676966)
+
 ###  🎙️ Activities 👯
 * DS with 3+ years business solutions in financial industry around forecasting, optimization, & prediction.
 * Sever administrator & ETL main engineer, invent transcode system between SAP HANA and SAS.
@@ -24,6 +26,7 @@ My experience includes building sentiments analysis model in Sina WeiBo (Beijing
 * Email: ethan1126.ilink@gmail.com
 * LinkedIn: www.linkedin.com/in/ethan-wu-MBA
 * Medium: https://medium.com/@ethan1126.ilink
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcubatlin&count_bg=%2395DFAF&title_bg=%239A9897&icon=python.svg&icon_color=%23FFBCF5&title=HITs%21&edge_flat=false)](https://hits.seeyoufarm.com)
 
