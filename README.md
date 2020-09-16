@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2395DFAF&title_bg=%239A9897&icon=python.svg&icon_color=%23FFAD6C&title=HITs%21&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <!--
 **CubatLin/cubatlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
