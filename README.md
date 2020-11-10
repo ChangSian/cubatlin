@@ -8,7 +8,7 @@
 
 ###  🎙️ Activities 👯
 * **Data Scientist:** With 3+ years experiences & LOMA ALMI certificated in financial industry. Around forecasting(claim-repurchase model), optimization(Graph/DFS), cluster&classification(customer financial ranking).
-* **Data Engineer:** Sever administrator & ETL main engineer, invent transcode system between SAP HANA and SAS.
+* **Data Engineering:** Sever administrator & ETL main engineer, invent transcode system between SAP HANA and SAS.
 * **Lecture speaker** of ['How can data science be used in Insurtech?'](https://github.com/CubatLin/cubatlin/blob/master/Lecture_THU_20201204.pdf) @Tung-Hai University.
 * **Writer** for [【Shopee Code League】2020蝦皮數據競賽系列賽參賽心得&亞太區15th做法分享](https://medium.com/@ethan1126.ilink/shopee-code-league-2020%E8%9D%A6%E7%9A%AE%E6%95%B8%E6%93%9A%E7%AB%B6%E8%B3%BD%E7%B3%BB%E5%88%97%E8%B3%BD%E5%8F%83%E8%B3%BD%E5%BF%83%E5%BE%97-%E4%BA%9E%E5%A4%AA%E5%8D%8015th%E5%81%9A%E6%B3%95%E5%88%86%E4%BA%AB-6d228b681935) to apply strategic thought by quantative methods(NLP/CV) in E-commerce industry.
 
