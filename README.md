@@ -23,6 +23,11 @@
   * 23th in Marketing Analytics(Recommendation forecasting task).
   * 47th in Order Brushing(accuracy:0.9779).
   * 67th, score 0.81 accuracy in Product Detection(Computer Vision task).
+  
+**[《I'm the Best Coder! Challenge 2020(open category)》](https://www.kaggle.com/c/iamthebestcoderopen2020/leaderboard)**
+  * 5th in User Spending Prediction.
+ 
+ 
 
 ### 📫 How to reach me 💬 
 <p >
