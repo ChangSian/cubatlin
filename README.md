@@ -7,7 +7,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcubatlin&count_bg=%2395DFAF&title_bg=%239A9897&icon=python.svg&icon_color=%23FFBCF5&title=HITs%21&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ###  🎙️ Activities 👯
-* **Data Scientist:** With 3+ years experiences & LOMA ALMI certificated in financial industry. Around forecasting(claim-repurchase model), optimization(Graph/DFS), cluster&classification(customer financial ranking).
+* **Data Scientist:** With 4+ years experience in data science & LOMA FLMI certificated in financial industry. Around forecasting(claim-repurchase model), optimization(Graph/DFS), cluster&classification.
 * **Data Engineering:** Sever administrator & ETL main engineer, invent transcode system between SAP HANA and SAS.
 * **Professional Certification:** [Fellow, Life Management Institute](https://verify.loma.org/badge/0D5444E6390040A0A805749B63A8505D), LOMA.
 * **Lecture speaker** of ['How can data science be used in Insurtech?'](https://github.com/CubatLin/cubatlin/blob/master/Lecture_THU_20201204.pdf) @Tung-Hai University.
