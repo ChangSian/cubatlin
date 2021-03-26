@@ -14,9 +14,10 @@
 * **Writer** for [【Shopee Code League】2020蝦皮數據競賽系列賽參賽心得&亞太區15th做法分享](https://medium.com/@ethan1126.ilink/shopee-code-league-2020%E8%9D%A6%E7%9A%AE%E6%95%B8%E6%93%9A%E7%AB%B6%E8%B3%BD%E7%B3%BB%E5%88%97%E8%B3%BD%E5%8F%83%E8%B3%BD%E5%BF%83%E5%BE%97-%E4%BA%9E%E5%A4%AA%E5%8D%8015th%E5%81%9A%E6%B3%95%E5%88%86%E4%BA%AB-6d228b681935) to apply strategic thought by quantative methods(NLP/CV) in E-commerce industry.
 
 ###  ✏️ Honors 🏆
-**[《2019 autumn E.Sun Bank AI open competition- credit card fraud detection》](https://github.com/CubatLin/TBrain-E.SUN-AI-Open-Competition-Fall-2019-15th-place-Feature-Engineering)**
-  * 2nd of final selected 20 teams in business solutions competition.
-  * Led team of 5 to achieve top 1%(15/1366) in F1 score predict competition.
+**[《Top 30 teams of over 15000 participants in Shopee Code League 2021 Kaggle series (Open Category)》](https://github.com/CubatLin/Shopee-Code-League-2020-Competition-2--Open-Product-Detection-baseline-over-0.8/blob/master/ShopeeCodeLeague2021_Top30.png)**
+
+**[《I'm the Best Coder! Challenge 2020(open category)》](https://www.kaggle.com/c/iamthebestcoderopen2020/leaderboard)**
+  * 5th in User Spending Prediction.
 
 **[《2020 Shopee Code League- series of Kaggle competition in Asia-Pacific(open category)》](https://github.com/CubatLin/Shopee-Code-League-2020-Competition-2--Open-Product-Detection-baseline-over-0.8)**
   * 15th in Sentiment Analysis(NLP task).
@@ -24,11 +25,13 @@
   * 23th in Marketing Analytics(Recommendation forecasting task).
   * 47th in Order Brushing(accuracy:0.9779).
   * 67th, score 0.81 accuracy in Product Detection(Computer Vision task).
+
+**[《2019 autumn E.Sun Bank AI open competition- credit card fraud detection》](https://github.com/CubatLin/TBrain-E.SUN-AI-Open-Competition-Fall-2019-15th-place-Feature-Engineering)**
+  * 2nd of final selected 20 teams in business solutions competition.
+  * Led team of 5 to achieve top 1%(15/1366) in F1 score predict competition.
+
   
-**[《I'm the Best Coder! Challenge 2020(open category)》](https://www.kaggle.com/c/iamthebestcoderopen2020/leaderboard)**
-  * 5th in User Spending Prediction.
- 
- 
+
 
 ### 📫 How to reach me 💬 
 <p >
